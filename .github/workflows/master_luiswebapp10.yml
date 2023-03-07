@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'LUISWebApp10'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1A35DF0CC80E4C64A05DC0C0566309BB }}
